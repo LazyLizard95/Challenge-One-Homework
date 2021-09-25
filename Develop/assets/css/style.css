@@ -1,0 +1,45 @@
+.search-engine-optimization {
+    display: block;
+    margin-left: 0%;
+    width: 40%;
+    border:5px;
+    
+}
+
+.online-reputation-management{
+    display: block;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    width: 40%;
+    border:5px;
+}
+.social-media-marketing{
+    display: inline;
+    margin-left: 0%;
+    margin-top: 0%;
+    width: 35%;
+    border:5px;
+}
+
+.backgroundColor{
+    background-color: bisque;
+}
+
+.textOnlineRep{
+    display: block;
+    background-color: rgb(233, 184, 124);
+    }
+
+.textBackgroundcolor{
+    display: inline;
+    background-color: rgb(233, 184, 124);
+   
+     
+}
+.sectionHeader{
+    display: inline;
+    align-items: stretch;
+    
+       
+}
