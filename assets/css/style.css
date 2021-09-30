@@ -1,45 +1,27 @@
-.search-engine-optimization {
+.search-engine-optimization { /* sizing for first image on page*/
     display: block;
-    margin-left: 0%;
     width: 40%;
     border:5px;
     
 }
 
-.online-reputation-management{
+.online-reputation-management{ /* sizing for second image on page*/
     display: block;
-    margin-left: 0%;
-    margin-top: 0%;
-    margin-bottom: 0%;
     width: 40%;
     border:5px;
 }
-.social-media-marketing{
-    display: inline;
-    margin-left: 0%;
-    margin-top: 0%;
-    width: 35%;
+.social-media-marketing{ /* sizing for first third on page*/
+    display: block;
+    width: 40%;
     border:5px;
 }
 
-.backgroundColor{
-    background-color: bisque;
-}
-
-.textOnlineRep{
-    display: block;
-    background-color: rgb(233, 184, 124);
-    }
-
-.textBackgroundcolor{
-    display: inline;
-    background-color: rgb(233, 184, 124);
-   
-     
-}
-.sectionHeader{
+.sectionHeader{ /*sets parameters for headerText*/
     display: inline;
     align-items: stretch;
-    
-       
+}
+
+.bodyText { /*makes text readable for smaller resolutions*/
+    display: flex;
+    flex-wrap: wrap;
 }
