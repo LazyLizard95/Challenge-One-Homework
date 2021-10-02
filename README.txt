@@ -7,5 +7,7 @@ In order to view this project simply download the repository and view in your pr
 
 This project can be shared and used for learning and class purposes. 
 
+![Link to gallery with visual aids on using this project](https://imgur.com/a/HtKFJBo)
+
 Project submitted 9/25/2021 by Thomas Gola
 Contacts: silentsnip3@gmail.com
