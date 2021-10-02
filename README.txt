@@ -16,4 +16,5 @@ Step Two: Select latest deployment then click on "view deployment".
 Step Three: Your final page should look something as the above image. An arrow points to functional navigation links of the page. 
 
 Project submitted 9/25/2021 by Thomas Gola
+Last updated 10/02/2021 by Thomas Gola
 Contacts: silentsnip3@gmail.com
